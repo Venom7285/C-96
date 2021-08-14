@@ -1,0 +1,57 @@
+#img1
+{
+    height: 30px;
+    width: 30px;
+    border-radius: 100px;
+}
+
+.login_div
+{
+    border-radius: 20px;
+    background-color: cadetblue;
+    margin-left: 425px;
+    margin-top: 50px;
+}
+
+#bgrnd
+{
+    background-color: darkturquoise;
+}
+
+#logout {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.header {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#room_icon {
+    height: 50px;
+    width: 50px;
+    border-radius: 75px;
+}
+
+#chat_icon {
+    height: 50px;
+    width: 50px;
+    border-radius: 75px;
+}
+
+#msg {
+    width: 80%;
+}
+
+#sendB {
+    width: 80%;
+}
+
+.user_tick {
+    height: 20px;
+    width: 20px;
+    border-radius: 75px;
+}
+
+#msg_br {
+    width: 100px;
+}
